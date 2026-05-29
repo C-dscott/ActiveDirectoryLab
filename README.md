@@ -1,2 +1,86 @@
-# ActiveDirectoryLab
-This is a video series that demonstrates my hands on skills of navigating and using Active Directory.
+<h1>Active Directory Home Lab</h1>
+
+ ### [YouTube Demonstration](https://www.youtube.com/playlist?list=PLoowYzuxGQ0DgyFrhbszdnxY7VwvCH3H8)
+
+<h2>Description</h2>
+In this lab series, I walk through the everyday tasks that a Help Desk Support Technician handles in the real world, using Active Directory. I demonstate user account management, password resets, permissions, troubleshooting access issues, and a whole lot more. Everything you'd expect someone in a Help Desk role to perform on day one. I wanted to go beyond just listing skills on a resume — I wanted to actually show them in action.
+<br />
+
+
+<h2>Objectives</h2>
+
+- <b>Create and configure new user accounts in Active Directory</b> 
+- <b>Build an Organizational Unit structure that mirrors a real company</b>
+- <b>Manage Security Group membership to control resource access</b>
+- <b>Simulate and resolve a common account lockout scenario</b>
+- <b>Demonstrate proper employee offboarding procedures</>
+
+
+<h2>Tools & Technologies Used </h2>
+
+- <b>Windows Server 2022</b>
+- <b>Active Directory Users and Computers (ADUC)</b>
+- <b>VirtualBox</b>
+- <b>ServiceNow (for ticket creation)</b>
+
+
+<h2>Environments Used </h2>
+My lab was hosted on my Asus computer using the Virtualbox hypervisor. I set up a Microsoft Windows 2022 server, and 2 Client Computers (only one was used during this lab). 
+
+
+- <b>Oracle VirtualBox Manager Hypervisor</b> (7.2.0)
+- <b>Microsoft Windows Server 2022</b> (64-bit)
+- <b>2 Client Hosts Windows 11 Pro OS</b> (25H2)
+
+
+<h2>Skills Demonstrated:</h2>
+
+- <b>User account creation and configuration</b> 
+- <b>Organizational Unit design and management</b> 
+- <b>Security Group creation and membership management</b>
+- <b>Account lockout resolution and password reset</b> 
+- <b>Account deprovisioning and offboarding best practices</b>
+
+  
+<h2>Program walk-through:</h2>
+
+
+
+<p align="center">
+Step 1: Creating the OU Structure <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 2: Creating Security Groups  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 3: Creating the New User Account <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 4: Configuring Account Properties  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 5: Adding the User to a Security Group  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 6: Simulating and Resolving an Account Lockout  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 7: Disabling the Account — Employee Offboarding  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
