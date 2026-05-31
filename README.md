@@ -84,7 +84,22 @@ Step 6: Simulating and Resolving an Account Lockout  <br/>
 <br />
 <br />
 Step 7: Disabling the Account — Employee Offboarding  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UugGUvt.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<br />
+<img src="https://imgur.com/fTutntr.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<br />
+<img src="https://imgur.com/Mw0PRKM.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<br />
+<img src="https://imgur.com/EWA6iRa.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<br />
+<img src="https://imgur.com/6lVyliV.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<br />
+<br />
+
+
+
+
+ 
 </p>
 
 <!--
