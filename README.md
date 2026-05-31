@@ -60,19 +60,27 @@ Step 2: Creating Security Groups  <br/>
 <br />
 <br />
 Step 3: Creating the New User Account <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lu8X4KR.png" height="80%" width="80%" alt="Creating the new user Step"/>
 <br />
 <br />
 Step 4: Configuring Account Properties  <br/>
-<img src="https://imgur.com/lu8X4KR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/4YcaRjP.png" height="80%" width="80%" alt="Configuring Account Properties Step"/>
 <br />
 <br />
 Step 5: Adding the User to a Security Group  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/d9HIEZA.png" height="80%" width="80%" alt="Adding User to Security Group Steps"/>
 <br />
 <br />
 Step 6: Simulating and Resolving an Account Lockout  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oCxPbhk.png" height="80%" width="80%" alt="Simulating and Resolving Account Lockout Steps"/>
+<br />
+ <img src="https://imgur.com/p0GtCsn.png" height="80%" width="80%" alt="Simulating and Resolving Account Lockout Steps"/>
+<br />
+ <img src="https://imgur.com/5Bi7EFT.png" height="80%" width="80%" alt="Simulating and Resolving Account Lockout Steps"/>
+<br />
+ <img src="https://imgur.com/OBiR5fi.png" height="80%" width="80%" alt="Simulating and Resolving Account Lockout Steps"/>
+<br />
+ <img src="https://imgur.com/o9VLRWB.png" height="80%" width="80%" alt="Simulating and Resolving Account Lockout Steps"/>
 <br />
 <br />
 Step 7: Disabling the Account — Employee Offboarding  <br/>
