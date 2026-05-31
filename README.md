@@ -144,7 +144,7 @@ Step 7: Disabling the Account — Employee Offboarding  <br/>
 - <b>The lab simulated a real Help Desk environment and allowed me the opportunity to have hands-on practice of how to address common IT incidents.</b> 
 <br /> 
 <br />
-<br />
+
 
 <h2>Connect With Me</h2>
 
