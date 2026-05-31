@@ -97,6 +97,42 @@ Step 7: Disabling the Account — Employee Offboarding  <br/>
 <br />
 
 
+<h2>HR Onboarding Workflow:</h2>
+This section shows the onbarding tickets created in ServiceNow that initiated the Active Directory workflow
+<br />
+<br />
+
+<p align="center">
+Step 1: Creating the Onboarding Ticket Request <br/>
+<img src="https://imgur.com/FrBuzPj.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
+<br />
+ <img src="https://imgur.com/Q50KidN.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
+<br />
+Step 2: Onboarding Ticket References <br/>
+<img src="https://imgur.com/W2WQRwf.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<img src="https://imgur.com/J6bTWAI.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/u0XZPGi.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/cGqRbKl.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/oxLptwO.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/2smExU2.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<img src="https://imgur.com/vDdMV2Q.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/8n6igzR.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/c1JWY2S.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/aMCpTEg.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+
+ 
+<br />
+ 
 
 
  
