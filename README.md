@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/playlist?list=PLoowYzuxGQ0DgyFrhbszdnxY7VwvCH3H8)
 
 <h2>Description</h2>
-In this lab series, I walk through the everyday tasks that a Help Desk Support Technician handles in the real world, using Active Directory. I demonstate user account management, password resets, permissions, troubleshooting access issues, and a whole lot more. Everything you'd expect someone in a Help Desk role to perform on day one. I wanted to go beyond just listing skills on a resume — I wanted to actually show them in action.
+In this lab series, I walk through the everyday tasks that a Help Desk Support Technician handles in the real world, using Active Directory. I demonstate user account management, password resets, permissions, troubleshooting access issues, and a whole lot more. Everything you'd expect someone in a Help Desk role to perform on day one. I wanted to go beyond just listing skills on a resume — I wanted to actually show them in action. I wanted to demonstrate the process from HR onboarding tickets that initiated the workflow before any Active Directory work begins to the offboarding process of disabling an employee account.
 <br />
 
 
@@ -40,10 +40,47 @@ My lab was hosted on my Asus computer using the Virtualbox hypervisor. I set up 
 - <b>Security Group creation and membership management</b>
 - <b>Account lockout resolution and password reset</b> 
 - <b>Account deprovisioning and offboarding best practices</b>
-
+<br />
   
-<h2>Program walk-through:</h2>
+<h2>Program Walk-through:</h2>
+<br />
+<h2>HR Onboarding Workflow:</h2>
+This section shows the onbarding tickets created in ServiceNow that initiated the Active Directory workflow
+<br />
+<br />
 
+<p align="center">
+Step 1: Creating the Onboarding Ticket Request <br/>
+<img src="https://imgur.com/FrBuzPj.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
+<br />
+ <img src="https://imgur.com/Q50KidN.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
+<br />
+Step 2: Onboarding Ticket References <br/>
+<img src="https://imgur.com/W2WQRwf.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<img src="https://imgur.com/J6bTWAI.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/u0XZPGi.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/cGqRbKl.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/oxLptwO.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/2smExU2.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<img src="https://imgur.com/vDdMV2Q.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/8n6igzR.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/c1JWY2S.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/aMCpTEg.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+
+
+
+<br />
+<h2>Active Directory Workflow:</h2>
 
 
 <p align="center">
@@ -97,38 +134,6 @@ Step 7: Disabling the Account — Employee Offboarding  <br/>
 <br />
 
 
-<h2>HR Onboarding Workflow:</h2>
-This section shows the onbarding tickets created in ServiceNow that initiated the Active Directory workflow
-<br />
-<br />
-
-<p align="center">
-Step 1: Creating the Onboarding Ticket Request <br/>
-<img src="https://imgur.com/FrBuzPj.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
-<br />
- <img src="https://imgur.com/Q50KidN.png" height="80%" width="80%" alt="Creating Onboarding Ticket Request Steps"/>
-<br />
-Step 2: Onboarding Ticket References <br/>
-<img src="https://imgur.com/W2WQRwf.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
-<br />
-<img src="https://imgur.com/J6bTWAI.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/u0XZPGi.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/cGqRbKl.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/oxLptwO.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/2smExU2.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
-<br />
-<img src="https://imgur.com/vDdMV2Q.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/8n6igzR.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/c1JWY2S.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
-<img src="https://imgur.com/aMCpTEg.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
 
  
 <br />
