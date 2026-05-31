@@ -43,6 +43,10 @@ My lab was hosted on my Asus computer using the Virtualbox hypervisor. I set up 
 <br />
   
 <h2>Program Walk-through:</h2>
+
+ ### [YouTube Demonstration](https://www.youtube.com/playlist?list=PLoowYzuxGQ0DgyFrhbszdnxY7VwvCH3H8)
+
+
 <br />
 <h2>HR Onboarding Workflow:</h2>
 This section shows the onbarding tickets created in ServiceNow that initiated the Active Directory workflow
@@ -133,13 +137,18 @@ Step 7: Disabling the Account — Employee Offboarding  <br/>
 <br />
 <br />
 
+<h2>Conclusion</h2>
 
-
- 
+- <b>This Lab gave me a better understanding of the workflow of the onboarding process of new employees</b> 
+- <b>It taught me how to resolve issues/incidents in Active Directory and to document my steps in the ServiceNow ticketing System.</b> 
+- <b>The lab simulated a real Help Desk environment and allowed me the opportunity to have hands-on practice of how to address common IT incidents.</b> 
+<br /> 
 <br />
- 
+<br />
 
+<h2>Connect With Me</h2>
 
+https://www.linkedin.com/in/carolynscott55/
  
 </p>
 
