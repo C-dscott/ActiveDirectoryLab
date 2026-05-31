@@ -48,11 +48,15 @@ My lab was hosted on my Asus computer using the Virtualbox hypervisor. I set up 
 
 <p align="center">
 Step 1: Creating the OU Structure <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XlEMtnS.png" height="80%" width="80%" alt="Creating OU Structure Steps"/>
 <br />
 <br />
 Step 2: Creating Security Groups  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nzSNRVo.png" height="80%" width="80%" alt="Security Group Steps"/>
+<br />
+ <img src="https://imgur.com/T9G5UUa.png" height="80%" width="80%" alt="Security Group Steps"/>
+<br />
+ <img src="https://imgur.com/5MP8HSN.png" height="80%" width="80%" alt="Security Group Steps"/>
 <br />
 <br />
 Step 3: Creating the New User Account <br/>
@@ -60,7 +64,7 @@ Step 3: Creating the New User Account <br/>
 <br />
 <br />
 Step 4: Configuring Account Properties  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lu8X4KR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step 5: Adding the User to a Security Group  <br/>
